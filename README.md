@@ -60,7 +60,3 @@ To protect the effort I put in (and avoid clones if I want to turn this into a s
 📧 Email: huynhbaohuy130333@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/b-huy-huynh-763427352/)  
 📷 [Instagram](https://www.instagram.com/hbhuy.13/)
-
----
-
-👉 Hit me up. Let's talk.
