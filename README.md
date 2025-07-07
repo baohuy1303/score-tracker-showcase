@@ -13,6 +13,7 @@ A full-stack web app to track academic performance, analyze subject scores, and 
 
 - ✅ Log in and manage your subject scores across multiple terms
 - ✅ GPA calculation with subject-by-subject breakdown
+- ✅ Smart insights and support via AI academic advisor chatbot  
 - ✅ Auto-refresh JWT token auth (access + refresh tokens)
 - ✅ Secure backend API with Express and MongoDB
 - ✅ Responsive design with TailwindCSS
@@ -36,7 +37,7 @@ A full-stack web app to track academic performance, analyze subject scores, and 
 - **Cookie-based auth** (httpOnly + secure)
 
 ### Deployment
-- 🌐 Frontend: Hosted on [Render](https://render.com)
+- 🌐 Frontend: Hosted on [Render](https://score-aim-results-tracker.onrender.com)  
 - 🔗 Backend API: Also deployed on Render
 
 ---
@@ -47,6 +48,7 @@ This is an original full-stack project I built to showcase:
 - Clean architecture
 - Real-world auth logic (JWT + refresh tokens)
 - UX-focused design
+- AI integration with real use case 
 - Authentication flow with refresh tokens
 - Secure cookie handling
 - Real world problem solving
@@ -57,6 +59,6 @@ To protect the effort I put in (and avoid clones if I want to turn this into a s
 
 ## 💬 Contact Me
 
-📧 Email: huynhbaohuy130333@gmail.com  
+📧 Email: [huynhbaohuy130333@gmail.com](mailto:huynhbaohuy130333@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/b-huy-huynh-763427352/)  
 📷 [Instagram](https://www.instagram.com/hbhuy.13/)
