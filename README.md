@@ -5,7 +5,7 @@ A full-stack web app to track academic performance, analyze subject scores, and 
 
 > 🚀 [Live Demo](https://score-aim-results-tracker.onrender.com)  
 > 🔒 Source code is private to protect project integrity.  
-> 🧠 DM me on [LinkedIn](https://www.linkedin.com/in/b-huy-huynh-763427352/) for access.
+> 🧠 DM me on [LinkedIn](https://www.linkedin.com/in/hbhuy/) for access.
 
 ---
 
@@ -60,5 +60,4 @@ To protect the effort I put in (and avoid clones if I want to turn this into a s
 ## 💬 Contact Me
 
 📧 Email: [huynhbaohuy130333@gmail.com](mailto:huynhbaohuy130333@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/b-huy-huynh-763427352/)  
-📷 [Instagram](https://www.instagram.com/hbhuy.13/)
+🔗 [LinkedIn](https://www.linkedin.com/in/hbhuy/)  
